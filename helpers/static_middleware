@@ -1,0 +1,10 @@
+class chainValidationMiddleware{
+
+    static middleware;
+
+  
+
+
+}
+
+module.exports = chainValidationMiddleware;
